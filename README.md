@@ -138,17 +138,22 @@ Returns:
 * Node.js (for frontend)
 
 ---
-## 📷 Sample Results
-### Login and Register pages
-"C:\Users\Shilpa\Pictures\Screenshots\Screenshot 2025-05-19 224649.png"
-"C:\Users\Shilpa\Pictures\Screenshots\Screenshot 2025-05-19 224843.png"
+## 🔍 Results
 
-### 🔍 CNN Prediction (Benign vs Malignant)
+### 1. Benign Image
+![Benign](results/benign.png)
 
+### 2. Malignant Image
+![Malignant](results/malignant.png)
 
-### 💬 Chatbot Response
-![Chatbot](results/chatbot_response.png)
+### 3. Login Page
+![Login](results/login.png)
 
+### 4. Register Page
+![Register](results/register.png)
+
+### 5. Chat Interface
+![Chat Interface](results/chatinterface.png)
 
 ## 👩‍💻 Author
 
