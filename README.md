@@ -140,17 +140,18 @@ Returns:
 ---
 ## 🔍 Results
 
+### 4. Register Page
+![Register](results/register.png)
+
+### 3. Login Page
+![Login](results/login.png)
+
 ### 1. Benign Image
 ![Benign](results/benign.png)
 
 ### 2. Malignant Image
 ![Malignant](results/malignant.png)
 
-### 3. Login Page
-![Login](results/login.png)
-
-### 4. Register Page
-![Register](results/register.png)
 
 ### 5. Chat Interface
 ![Chat Interface](results/chatinterface.png)
