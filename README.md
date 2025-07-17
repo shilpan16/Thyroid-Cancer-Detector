@@ -139,17 +139,16 @@ Returns:
 
 ---
 ## 📷 Sample Results
-
-### 🔐 Login and Register Pages
-![Login](results/login.png)
-![Register](results/register.png)
+### Login and Register pages
+"C:\Users\Shilpa\Pictures\Screenshots\Screenshot 2025-05-19 224649.png"
+"C:\Users\Shilpa\Pictures\Screenshots\Screenshot 2025-05-19 224843.png"
 
 ### 🔍 CNN Prediction (Benign vs Malignant)
-![Benign](results/benign.png)
-![Malignant](results/malignant.png)
+
 
 ### 💬 Chatbot Response
-![Chatbot](results/chatinterface.png)
+![Chatbot](results/chatbot_response.png)
+
 
 ## 👩‍💻 Author
 
