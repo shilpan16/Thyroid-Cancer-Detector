@@ -129,3 +129,6 @@
 2025-06-27 13:54:49,076 - __main__ - INFO - Prediction made for file 3_i.jpg
 2025-06-27 13:54:53,513 - __main__ - INFO - Chatbot response: Hi there! Ask me anything about thyroid health.
 2025-06-27 13:55:05,674 - __main__ - INFO - Chatbot response: Thyroid cancer is a disease where abnormal cells grow in the thyroid gland, located in the neck. It can disrupt hormone production and needs timely diagnosis.
+2025-07-17 21:09:49,914 - __main__ - INFO - Prediction made for file 1_b.jpg
+2025-07-17 21:32:06,365 - __main__ - INFO - Prediction made for file 2_b.jpg
+2025-07-17 21:32:09,891 - __main__ - INFO - Chatbot response: Hey! How can I help you today?
