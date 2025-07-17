@@ -139,14 +139,16 @@ Returns:
 
 ---
 ## 🔍 Results
-
+### 1. Login Image
 ![Login](results/login.png)
+
+### 2. Register Image
 ![Register](results/register.png)
 
-### 1. Benign Image
+### 3. Benign Image
 ![Benign](results/benign.png)
 
-### 2. Malignant Image
+### 4. Malignant Image
 ![Malignant](results/malignant.png)
 
 
