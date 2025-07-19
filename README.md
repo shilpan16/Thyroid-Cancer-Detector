@@ -140,10 +140,10 @@ Returns:
 ---
 ## 🔍 Results
 ### 1. Login Image
-![Login](results/login.png)
+![Login](results/log.png)
 
 ### 2. Register Image
-![Register](results/register.png)
+![Register](results/reg.png)
 
 ### 3. Benign Image
 ![Benign](results/benign.png)
